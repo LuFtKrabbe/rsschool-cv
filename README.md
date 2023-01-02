@@ -1,1 +1,2 @@
-# rsschool-cvhttps://LuFtKrabbe.github.io/rsschool-cv/cv
+# rsschool-cv
+https://LuFtKrabbe.github.io/rsschool-cv/cv
